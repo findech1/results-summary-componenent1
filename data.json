@@ -4,9 +4,10 @@
     "score": 80,
     "icon": "./assets/images/icon-reaction.svg"
   },
+
   {
     "category": "Memory",
-    "score": 92,
+    "score": 94,
     "icon": "./assets/images/icon-memory.svg"
   },
   {
